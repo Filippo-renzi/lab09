@@ -1,0 +1,8 @@
+-classpath 'C:\\Users\\filippo.renzi2\\Desktop\\lab09\\91-bad-gui-io\\build\\classes\\java\\main;C:\\Users\\filippo.renzi2\\Desktop\\lab09\\91-bad-gui-io\\build\\resources\\main'
+-quiet 
+-d 'C:\\Users\\filippo.renzi2\\Desktop\\lab09\\91-bad-gui-io\\build\\docs\\javadoc'
+-windowtitle '91-bad-gui-io API'
+-doctitle '91-bad-gui-io API'
+-notimestamp 
+-Xwerror '-quiet'
+'C:\\Users\\filippo.renzi2\\Desktop\\lab09\\91-bad-gui-io\\src\\main\\java\\it\\unibo\\mvc\\BadIOGUI.java'
