@@ -1,0 +1,10 @@
+-classpath 'C:\\Users\\filippo.renzi2\\Desktop\\lab09\\92-simple-mvc-io\\build\\classes\\java\\main;C:\\Users\\filippo.renzi2\\Desktop\\lab09\\92-simple-mvc-io\\build\\resources\\main'
+-quiet 
+-d 'C:\\Users\\filippo.renzi2\\Desktop\\lab09\\92-simple-mvc-io\\build\\docs\\javadoc'
+-windowtitle '92-simple-mvc-io API'
+-doctitle '92-simple-mvc-io API'
+-notimestamp 
+-Xwerror '-quiet'
+'C:\\Users\\filippo.renzi2\\Desktop\\lab09\\92-simple-mvc-io\\src\\main\\java\\it\\unibo\\mvc\\Controller.java'
+'C:\\Users\\filippo.renzi2\\Desktop\\lab09\\92-simple-mvc-io\\src\\main\\java\\it\\unibo\\mvc\\SimpleGUI.java'
+'C:\\Users\\filippo.renzi2\\Desktop\\lab09\\92-simple-mvc-io\\src\\main\\java\\it\\unibo\\mvc\\SimpleGUIWithFileChooser.java'

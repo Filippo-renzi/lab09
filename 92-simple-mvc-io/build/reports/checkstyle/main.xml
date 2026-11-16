@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="14.3.0">
+<file name="C:\Users\filippo.renzi2\Desktop\lab09\92-simple-mvc-io\src\main\java\it\unibo\mvc\Controller.java">
+<error line="16" column="5" severity="error" message="Missing a Javadoc comment for &apos;Controller&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="19" column="8" severity="error" message="Summary javadoc is missing." source="com.puppycrawl.tools.checkstyle.checks.javadoc.SummaryJavadocCheck"/>
+<error line="26" column="8" severity="error" message="Summary javadoc is missing." source="com.puppycrawl.tools.checkstyle.checks.javadoc.SummaryJavadocCheck"/>
+<error line="33" column="8" severity="error" message="Summary javadoc is missing." source="com.puppycrawl.tools.checkstyle.checks.javadoc.SummaryJavadocCheck"/>
+<error line="40" column="8" severity="error" message="Summary javadoc is missing." source="com.puppycrawl.tools.checkstyle.checks.javadoc.SummaryJavadocCheck"/>
+</file>
+<file name="C:\Users\filippo.renzi2\Desktop\lab09\92-simple-mvc-io\src\main\java\it\unibo\mvc\SimpleGUI.java">
+</file>
+<file name="C:\Users\filippo.renzi2\Desktop\lab09\92-simple-mvc-io\src\main\java\it\unibo\mvc\SimpleGUIWithFileChooser.java">
+</file>
+</checkstyle>
